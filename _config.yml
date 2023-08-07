@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: SR Marketing Perth
 description: check us out on facebook and instagram!
+github:
+  is_project_page: false
